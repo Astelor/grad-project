@@ -51,6 +51,6 @@ Not critical:
 ## Power consumption analysis
 
 
-# Phase 3: Hardware Securtiy Module
+# Phase 3: Hardware Security Module
 
 - Not a must, considering the time limitation
