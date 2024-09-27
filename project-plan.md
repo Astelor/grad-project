@@ -4,7 +4,8 @@
 phases:
 1. Make a working RSA hardware accelerator
 2. Make the process secure
-3. Make it into a Hardware Security Module
+3. ~~Make it into a Hardware Security Module~~
+	> not exactly possible considering the one year time limitation
 
 # Phase 1: RSA Hardware accelerator
 
@@ -32,7 +33,7 @@ Not critical:
 
 - Assume a set of valid keys
 - Assume a set of ciphertext
-- Realize the decrytion process with HDL
+- Realize the decryption process with HDL
 
 # Phase 2: Side-channel Attack
 
@@ -44,7 +45,7 @@ Not critical:
 	- > could theorize the attack
 
 ## Input validation
-- desanitize the input as another module
+- sanitize the input as another module
 
 ## Timing analysis
 
