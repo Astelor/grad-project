@@ -10,4 +10,4 @@ Nothing much to see here for now.
 
 # NOTES
 
-If you're my advisor. Yes you can see on how much progress I've made because I will dump everything related here.
+If you're my supervisor. Yes you can see on how much progress I've made because I will dump everything related here.
